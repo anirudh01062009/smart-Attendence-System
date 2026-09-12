@@ -42,3 +42,5 @@ The frontend can open with a static server, but camera access is normally allowe
 Then open `http://localhost:8000`.
 
 For persistent database/API testing, deploy the API to Vercel with `DATABASE_URL`.
+
+Vercel deployment update 
